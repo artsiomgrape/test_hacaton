@@ -1,3 +1,7 @@
+import os
+os.system("pip3 install -r requirements.txt")
+
+
 from tensorflow import keras
 import numpy as np
 import joblib
