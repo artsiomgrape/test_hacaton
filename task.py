@@ -1,5 +1,5 @@
 import os
-os.system("pip3 install tensorflow")
+os.system("pip install tensorflow")
 
 
 from tensorflow import keras
